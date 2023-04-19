@@ -1,1 +1,1 @@
-# -Big-data-application-Sentiment-analysis-in-text-documents
+# (Big data application) Sentiment analysis in text documents
